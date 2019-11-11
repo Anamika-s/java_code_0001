@@ -16,7 +16,7 @@
 		<version>1.5.6.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-
+15.206.148.39
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -29,12 +29,12 @@
 		<repository>
 			<id>central</id>
 			<name>releases</name>
-			<url>http://18.234.23.189:8081/artifactory/libs-release-local/</url>
+			<url>http://15.206.148.39:8081/artifactory/libs-release-local/</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot</id>
 			<name>snapshots</name>
-			<url>http://18.234.23.189:8081/artifactory/libs-snapshot-local/</url>
+			<url>http://15.206.148.39:8081/artifactory/libs-snapshot-local/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	
